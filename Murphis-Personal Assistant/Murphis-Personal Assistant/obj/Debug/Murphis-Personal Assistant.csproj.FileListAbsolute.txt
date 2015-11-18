@@ -1,0 +1,16 @@
+c:\users\stark\documents\visual studio 2015\Projects\Murphis-Personal Assistant\Murphis-Personal Assistant\bin\Debug\Murphis-Personal Assistant.exe.config
+c:\users\stark\documents\visual studio 2015\Projects\Murphis-Personal Assistant\Murphis-Personal Assistant\bin\Debug\Murphis-Personal Assistant.exe
+c:\users\stark\documents\visual studio 2015\Projects\Murphis-Personal Assistant\Murphis-Personal Assistant\bin\Debug\Murphis-Personal Assistant.pdb
+c:\users\stark\documents\visual studio 2015\Projects\Murphis-Personal Assistant\Murphis-Personal Assistant\obj\Debug\Murphis-Personal Assistant.csprojResolveAssemblyReference.cache
+c:\users\stark\documents\visual studio 2015\Projects\Murphis-Personal Assistant\Murphis-Personal Assistant\obj\Debug\MainWindow.g.cs
+c:\users\stark\documents\visual studio 2015\Projects\Murphis-Personal Assistant\Murphis-Personal Assistant\obj\Debug\App.g.cs
+c:\users\stark\documents\visual studio 2015\Projects\Murphis-Personal Assistant\Murphis-Personal Assistant\obj\Debug\Murphis-Personal Assistant_MarkupCompile.cache
+c:\users\stark\documents\visual studio 2015\Projects\Murphis-Personal Assistant\Murphis-Personal Assistant\obj\Debug\Murphis-Personal Assistant_MarkupCompile.lref
+c:\users\stark\documents\visual studio 2015\Projects\Murphis-Personal Assistant\Murphis-Personal Assistant\obj\Debug\MainWindow.baml
+c:\users\stark\documents\visual studio 2015\Projects\Murphis-Personal Assistant\Murphis-Personal Assistant\obj\Debug\Murphis-Personal Assistant.g.resources
+c:\users\stark\documents\visual studio 2015\Projects\Murphis-Personal Assistant\Murphis-Personal Assistant\obj\Debug\Murphis_Personal_Assistant.Properties.Resources.resources
+c:\users\stark\documents\visual studio 2015\Projects\Murphis-Personal Assistant\Murphis-Personal Assistant\obj\Debug\Murphis-Personal Assistant.csproj.GenerateResource.Cache
+c:\users\stark\documents\visual studio 2015\Projects\Murphis-Personal Assistant\Murphis-Personal Assistant\obj\Debug\Murphis-Personal Assistant.exe
+c:\users\stark\documents\visual studio 2015\Projects\Murphis-Personal Assistant\Murphis-Personal Assistant\obj\Debug\Murphis-Personal Assistant.pdb
+C:\Users\Stark\documents\visual studio 2015\Projects\Murphis-Personal Assistant\Murphis-Personal Assistant\obj\Debug\MurphisMain.g.cs
+C:\Users\Stark\documents\visual studio 2015\Projects\Murphis-Personal Assistant\Murphis-Personal Assistant\obj\Debug\MurphisMain.baml

@@ -1,0 +1,18 @@
+﻿<Window x:Class="Murphis_Personal_Assistant.MurphisMain"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Murphis_Personal_Assistant"
+        mc:Ignorable="d"
+        Title="MurphisMain" Height="500" Width="600" ContentRendered="Window_ContentRendered">
+    <Grid Background="#FF0F816D">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="233*">
+                
+            </RowDefinition>
+            <RowDefinition Height="236*"/>
+        </Grid.RowDefinitions>
+
+    </Grid>
+</Window>
